@@ -1,0 +1,679 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.33f1 (915a7af8b0d5) revision 9525882'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 16171 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+D:\Program Files\jc\WorkSpace\Unity\Unity 2020.3.33f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Program Files/jc/WorkSpace/Unityprojects/EasyTouchTest
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54369
+Successfully changed project path to: D:/Program Files/jc/WorkSpace/Unityprojects/EasyTouchTest
+D:/Program Files/jc/WorkSpace/Unityprojects/EasyTouchTest
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 21.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.33f1 (915a7af8b0d5)
+[Subsystems] Discovering subsystems at path D:/Program Files/jc/WorkSpace/Unity/Unity 2020.3.33f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Program Files/jc/WorkSpace/Unityprojects/EasyTouchTest/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2489)
+    Vendor:   
+    VRAM:     8050 MB
+    Driver:   31.0.15.1702
+Initialize mono
+Mono path[0] = 'D:/Program Files/jc/WorkSpace/Unity/Unity 2020.3.33f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/jc/WorkSpace/Unity/Unity 2020.3.33f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/jc/WorkSpace/Unity/Unity 2020.3.33f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56012
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/jc/WorkSpace/Unity/Unity 2020.3.33f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000619 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 20.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.318 seconds
+Domain Reload Profiling:
+	ReloadAssembly (318ms)
+		BeginReloadAssembly (43ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (0ms)
+		EndReloadAssembly (237ms)
+			LoadAssemblies (43ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (77ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (15ms)
+			SetupLoadedEditorAssemblies (91ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (2ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (20ms)
+				BeforeProcessingInitializeOnLoad (8ms)
+				ProcessInitializeOnLoadAttributes (45ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001442 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Program Files\jc\WorkSpace\Unityprojects\EasyTouchTest\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.533 seconds
+Domain Reload Profiling:
+	ReloadAssembly (534ms)
+		BeginReloadAssembly (90ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (2ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (10ms)
+		EndReloadAssembly (414ms)
+			LoadAssemblies (65ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (138ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (22ms)
+			SetupLoadedEditorAssemblies (160ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (47ms)
+				ProcessInitializeOnLoadAttributes (103ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1606 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.3 MB.
+System memory in use after: 72.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2042.
+Total: 1.639600 ms (FindLiveObjects: 0.065500 ms CreateObjectMapping: 0.022100 ms MarkObjects: 1.496900 ms  DeleteObjects: 0.054100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins/Editor/EasyTouchInspector.cs
+  artifactKey: Guid(8dd4aa16173f5604085d778e85702c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins/Editor/EasyTouchInspector.cs using Guid(8dd4aa16173f5604085d778e85702c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ab028c477fa48ce5a627c59e137c91') in 0.016168 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.022298 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins/Editor/EasyTouchMenu.cs
+  artifactKey: Guid(febc228cacb117e4ca61d1754161d7be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins/Editor/EasyTouchMenu.cs using Guid(febc228cacb117e4ca61d1754161d7be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb067a522573f9ca792c7f15bb9f6a1e') in 0.002291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.506324 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins/Editor/EasyTouchTriggerInspector.cs
+  artifactKey: Guid(c805d42d461a3ee41a947ec0f9e12636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins/Editor/EasyTouchTriggerInspector.cs using Guid(c805d42d461a3ee41a947ec0f9e12636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '580e6307d5b189469fd2ee4927dec05d') in 0.001229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.492331 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins/Editor/EasyTouchWelcomeScreen.cs
+  artifactKey: Guid(d92488c9dd498a84eacbd541c4bf40d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins/Editor/EasyTouchWelcomeScreen.cs using Guid(d92488c9dd498a84eacbd541c4bf40d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e407f4b2d0edd8165e061ccee56390e5') in 0.001221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.428925 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins/Editor/HTGuiTools.cs
+  artifactKey: Guid(6e63e92782febb546b01ef0a99394021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins/Editor/HTGuiTools.cs using Guid(6e63e92782febb546b01ef0a99394021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5d840569d35a1206fe0c6aaa003f6a3') in 0.001143 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.604483 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins/Editor/QuickTapInspector.cs
+  artifactKey: Guid(e3e03caf02a475448be04b282362697d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins/Editor/QuickTapInspector.cs using Guid(e3e03caf02a475448be04b282362697d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26ed8e8f2ce769489bd8f5da7dde0b69') in 0.001904 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.322135 seconds.
+  path: Assets/EasyTouchBundle/Install/PlayMakerAddOn.unitypackage
+  artifactKey: Guid(0eeafee37b1c2ef4ea2f11a010f390ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/Install/PlayMakerAddOn.unitypackage using Guid(0eeafee37b1c2ef4ea2f11a010f390ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caa96f191af5d9a8998f70975faabb30') in 0.018819 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.278122 seconds.
+  path: Assets/EasyTouchBundle/EasyTouchControls/Issues in button behavior (MAC).txt
+  artifactKey: Guid(22dcccec164e332478250a4792149822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouchControls/Issues in button behavior (MAC).txt using Guid(22dcccec164e332478250a4792149822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb171334e89919134ca582664e5daa5f') in 0.021236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.582513 seconds.
+  path: Assets/EasyTouchBundle/EasyTouchControls/Documentation
+  artifactKey: Guid(7a327bf4ee8bb3744a089ef5f375ed89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouchControls/Documentation using Guid(7a327bf4ee8bb3744a089ef5f375ed89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a7e11568fb9057a1c2b7d1828006de0') in 0.001248 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.981325 seconds.
+  path: Assets/EasyTouchBundle/EasyTouchControls
+  artifactKey: Guid(fb1e71bd29d0cd248af4d869d6bad5ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouchControls using Guid(fb1e71bd29d0cd248af4d869d6bad5ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1b3aecc5b49a360040280cc356ef7fc') in 0.001357 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 56.797975 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/_Documentation/EasyTouch.pdf
+  artifactKey: Guid(831f3ff98bb130f4cbbcb9f8e93f0db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/_Documentation/EasyTouch.pdf using Guid(831f3ff98bb130f4cbbcb9f8e93f0db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e102dda76e0bbebf5432d85fb80c31ad') in 0.003600 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.165813 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Examples/5.X new features/QuickGesture.unity
+  artifactKey: Guid(897a68b4076b4f441b4ae694f52a349a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Examples/5.X new features/QuickGesture.unity using Guid(897a68b4076b4f441b4ae694f52a349a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a5bc8f4a050f44c1816217610c1da1') in 0.001251 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001732 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Program Files\jc\WorkSpace\Unityprojects\EasyTouchTest\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.511 seconds
+Domain Reload Profiling:
+	ReloadAssembly (511ms)
+		BeginReloadAssembly (81ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (2ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (401ms)
+			LoadAssemblies (66ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (143ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (19ms)
+			SetupLoadedEditorAssemblies (143ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (40ms)
+				ProcessInitializeOnLoadAttributes (94ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1600 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.8 MB.
+System memory in use after: 75.9 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2047.
+Total: 1.846100 ms (FindLiveObjects: 0.081400 ms CreateObjectMapping: 0.021600 ms MarkObjects: 1.716400 ms  DeleteObjects: 0.026200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 208.080090 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Examples/5.X new features/Script/RTS_NewSyntaxe.cs
+  artifactKey: Guid(eebd60ce99822854cbf4faa41ce76854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Examples/5.X new features/Script/RTS_NewSyntaxe.cs using Guid(eebd60ce99822854cbf4faa41ce76854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c1e5720706093f5534c07b423344c69') in 0.003619 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.103769 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Examples/5.X new features/Script/SimpleActionExample.cs
+  artifactKey: Guid(b734d6c34eb013b47baa30c6a7a37e83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Examples/5.X new features/Script/SimpleActionExample.cs using Guid(b734d6c34eb013b47baa30c6a7a37e83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e204afd7b45e4775ad9148369457a5a8') in 0.001276 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003655 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Program Files\jc\WorkSpace\Unityprojects\EasyTouchTest\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.087 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1087ms)
+		BeginReloadAssembly (145ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (879ms)
+			LoadAssemblies (130ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (287ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (80ms)
+			SetupLoadedEditorAssemblies (301ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (85ms)
+				ProcessInitializeOnLoadAttributes (194ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1600 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.8 MB.
+System memory in use after: 75.9 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2050.
+Total: 2.657500 ms (FindLiveObjects: 0.191200 ms CreateObjectMapping: 0.052300 ms MarkObjects: 2.386700 ms  DeleteObjects: 0.025700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 49.483778 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs
+  artifactKey: Guid(42241010c6f9ddc46b78abdc21d505c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/EasyTouch.cs using Guid(42241010c6f9ddc46b78abdc21d505c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26d36df77fd32c52dac6c448f40f13a4') in 0.002703 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.428089 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/TwoFingerGesture.cs
+  artifactKey: Guid(b166c9002d8a98e4d9923f6b75a54197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/TwoFingerGesture.cs using Guid(b166c9002d8a98e4d9923f6b75a54197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23b3512da2ee3ea59fd4ce14b33cdb4c') in 0.001351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.549679 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/Gesture.cs
+  artifactKey: Guid(42d70a45bcf6a3b4cb6fbc54cefed1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/Gesture.cs using Guid(42d70a45bcf6a3b4cb6fbc54cefed1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1172df827a88593202c1223e4d913a') in 0.001385 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.444158 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/ECamera.cs
+  artifactKey: Guid(524815593fe79cf46b3c7e1ae30e948e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins/Engine/ECamera.cs using Guid(524815593fe79cf46b3c7e1ae30e948e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14db3399a968c923b3726f4cdda1834d') in 0.001275 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.991796 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins/Editor/QuickDragInspector.cs
+  artifactKey: Guid(90d40bf8ecbb8e54fa449fff98f7c89c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins/Editor/QuickDragInspector.cs using Guid(90d40bf8ecbb8e54fa449fff98f7c89c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc692f4c78f60af38079eef26248638c') in 0.003218 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.265120 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins/Editor
+  artifactKey: Guid(120ecfbfbf21dd042bd7a4989263f1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins/Editor using Guid(120ecfbfbf21dd042bd7a4989263f1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '784a5ed28049754d6291baae550572e4') in 0.001252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.731023 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins
+  artifactKey: Guid(2486c76c5924a4843a0962abc8200256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins using Guid(2486c76c5924a4843a0962abc8200256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb1fb5952c3bc4483f5b0bb17be3a19b') in 0.001297 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.581986 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins/Components
+  artifactKey: Guid(3f610c2b618d1c64ca66f4e0bbe894f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins/Components using Guid(3f610c2b618d1c64ca66f4e0bbe894f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dc6ad5fa2b2cb929ddc7650c7e91a9f') in 0.001319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.933459 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins/Components/EasyTouchTrigger.cs
+  artifactKey: Guid(a8c8100645ce3444a84b9f5e0164ad76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins/Components/EasyTouchTrigger.cs using Guid(a8c8100645ce3444a84b9f5e0164ad76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cb352a9f20cd7780aa9692755b89c8e') in 0.001395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.157495 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins/Components/QuickDrag.cs
+  artifactKey: Guid(7961076ef9aef0341b2c9f8a38bfbc71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins/Components/QuickDrag.cs using Guid(7961076ef9aef0341b2c9f8a38bfbc71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4f320b143205eb3f07a146fb9aefc9c') in 0.001483 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.611551 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins/Components/QuickEnterOverExist.cs
+  artifactKey: Guid(e9b7affbfb3c1534484689f270420489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins/Components/QuickEnterOverExist.cs using Guid(e9b7affbfb3c1534484689f270420489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1d414895787d576d6172982ab80c3ad') in 0.001486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.556104 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins/Components/QuickTap.cs
+  artifactKey: Guid(e9c933eb8b407754a8f98425dfaa784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins/Components/QuickTap.cs using Guid(e9c933eb8b407754a8f98425dfaa784f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31a811b756f53f6aa0d3a6b0d030fdd8') in 0.001260 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.660122 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Plugins/Components/QuickPinch.cs
+  artifactKey: Guid(82a53e7679dd5fe4a97e230b88ebc585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Plugins/Components/QuickPinch.cs using Guid(82a53e7679dd5fe4a97e230b88ebc585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49da2403d2bd24efa4524222eba626fd') in 0.001270 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.069803 seconds.
+  path: Assets/EasyTouchBundle/EasyTouchControls/Plugins/ETCArea.cs
+  artifactKey: Guid(c513711e195288b44ac497df25a51bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouchControls/Plugins/ETCArea.cs using Guid(c513711e195288b44ac497df25a51bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9160dfd804bde0186f47b925781c7e9f') in 0.001285 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.765731 seconds.
+  path: Assets/EasyTouchBundle/EasyTouchControls/Plugins/ETCAxis.cs
+  artifactKey: Guid(675b228153e2a5d42a1a6d0e7c024e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouchControls/Plugins/ETCAxis.cs using Guid(675b228153e2a5d42a1a6d0e7c024e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abbe361b8c06f977fe1eb6bb2fc091ef') in 0.001433 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.708488 seconds.
+  path: Assets/EasyTouchBundle/EasyTouchControls/Plugins/ETCButton.cs
+  artifactKey: Guid(ba60450c5a1202b41869d8ee7136c85f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouchControls/Plugins/ETCButton.cs using Guid(ba60450c5a1202b41869d8ee7136c85f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a04bb58af74a900c9b5b207575c2b4c2') in 0.001610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.853257 seconds.
+  path: Assets/EasyTouchBundle/EasyTouchControls/Plugins/ETCDPad.cs
+  artifactKey: Guid(d631d0ec62ed0d848943d0eb92457201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouchControls/Plugins/ETCDPad.cs using Guid(d631d0ec62ed0d848943d0eb92457201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd46db2844681faa4219cda4204c00fdf') in 0.001409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.796506 seconds.
+  path: Assets/EasyTouchBundle/EasyTouchControls/Plugins/ETCBase.cs
+  artifactKey: Guid(400767940b4a04142904dd864a3bb2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouchControls/Plugins/ETCBase.cs using Guid(400767940b4a04142904dd864a3bb2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db6f8d339a64845e5e354421a0194ce3') in 0.001394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.802157 seconds.
+  path: Assets/EasyTouchBundle/EasyTouch/Examples/5.X new features/RTS_Example_With_New_Syntaxe.unity
+  artifactKey: Guid(26609f2a26dfb8e458b420fc9afb84bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyTouchBundle/EasyTouch/Examples/5.X new features/RTS_Example_With_New_Syntaxe.unity using Guid(26609f2a26dfb8e458b420fc9afb84bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fc9c70acaee21c34108cbe148166de1') in 0.007657 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003220 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Program Files\jc\WorkSpace\Unityprojects\EasyTouchTest\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.941 seconds
+Domain Reload Profiling:
+	ReloadAssembly (941ms)
+		BeginReloadAssembly (119ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (766ms)
+			LoadAssemblies (122ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (256ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (284ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (82ms)
+				ProcessInitializeOnLoadAttributes (184ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1600 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.8 MB.
+System memory in use after: 75.9 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2053.
+Total: 2.861400 ms (FindLiveObjects: 0.282900 ms CreateObjectMapping: 0.051500 ms MarkObjects: 2.502800 ms  DeleteObjects: 0.023000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002887 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Program Files\jc\WorkSpace\Unityprojects\EasyTouchTest\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.901 seconds
+Domain Reload Profiling:
+	ReloadAssembly (901ms)
+		BeginReloadAssembly (126ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (724ms)
+			LoadAssemblies (117ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (243ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (266ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (77ms)
+				ProcessInitializeOnLoadAttributes (170ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1600 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.8 MB.
+System memory in use after: 75.9 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2056.
+Total: 2.575300 ms (FindLiveObjects: 0.183000 ms CreateObjectMapping: 0.069600 ms MarkObjects: 2.301300 ms  DeleteObjects: 0.020300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002544 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Program Files\jc\WorkSpace\Unityprojects\EasyTouchTest\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.930 seconds
+Domain Reload Profiling:
+	ReloadAssembly (930ms)
+		BeginReloadAssembly (113ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (759ms)
+			LoadAssemblies (119ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (256ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (280ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (183ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1600 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.8 MB.
+System memory in use after: 75.9 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2059.
+Total: 2.563800 ms (FindLiveObjects: 0.188200 ms CreateObjectMapping: 0.065200 ms MarkObjects: 2.288800 ms  DeleteObjects: 0.020600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001544 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Program Files\jc\WorkSpace\Unityprojects\EasyTouchTest\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.488 seconds
+Domain Reload Profiling:
+	ReloadAssembly (489ms)
+		BeginReloadAssembly (70ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (2ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (390ms)
+			LoadAssemblies (60ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (132ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (20ms)
+			SetupLoadedEditorAssemblies (145ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (39ms)
+				ProcessInitializeOnLoadAttributes (96ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1600 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.8 MB.
+System memory in use after: 75.9 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2062.
+Total: 1.761100 ms (FindLiveObjects: 0.078000 ms CreateObjectMapping: 0.022400 ms MarkObjects: 1.630600 ms  DeleteObjects: 0.029500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
